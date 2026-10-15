@@ -69,7 +69,8 @@ body {
 
 .logo {
   margin: 0;
-  font-size: clamp(1.6rem, 6vw, 2.3rem);
+  font-size: clamp(1.25rem, 5vw, 2.3rem);
+  white-space: nowrap;
   font-weight: 900;
   letter-spacing: -0.02em;
   color: #fff;

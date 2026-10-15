@@ -1,4 +1,4 @@
-# Fruit Frenzy
+# MIT Fruit Frenzy
 
 A match-3 puzzle game, like Bejeweled, but with fruit. It runs entirely in the browser with no backend.
 
